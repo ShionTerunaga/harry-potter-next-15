@@ -1,1 +1,1 @@
-
+export * from "./view/home"
